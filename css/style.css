@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+    font-size: 0;
+    padding: 0;
+}
+
 body {
     background-color: rgba(9, 114, 171);
 }
@@ -74,7 +80,6 @@ label {
 }
 
 .foot {
-    border: 2px solid;
     height: 170px;
     width: 100%;
     background-color:rgba(3, 32, 47, 0.589) ;
